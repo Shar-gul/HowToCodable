@@ -1,2 +1,2 @@
-# HowToCodable
-A simple example on how to use codable to parse json into objects
+# HowToDecodable
+A simple example on how to use decodable to parse json into objects
